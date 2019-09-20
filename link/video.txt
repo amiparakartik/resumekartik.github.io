@@ -1,1 +1,0 @@
-<video muted="muted" loop="loop" playsinline="" class="background-video-desktop" data-v-026c8652=""><source src="//videos.ctfassets.net/8ify6rodzca5/5iidANMw9GiqKY42cwsKcS/2ba4d01e27832d7639135969a9e180aa/moments_play_compressed.mp4" type="video/mp4" data-v-026c8652=""></video>

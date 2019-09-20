@@ -1,0 +1,61 @@
+
+1.Tab and Navigation
+
+	1.Home
+	2.About us
+	3.Products
+	4.Material Calc
+	5.Contact us
+
+	feturs and custom tab:
+	    1.Auto Language Change Tool
+	    2.top header with call,email ,working hours,inqiry form info,calculator	
+	    3.
+
+9499699936
+
+1.home page :
+	1.header
+	2.photo carousel with all categories from asian paint
+	3.fetuerd main cataegoy
+	4.footer
+2.About page
+	1.header
+	2.About Desc
+	3.Certification and points
+	4.why choose
+	5.quality maintain
+	6.footer
+3.Products page
+	1.product page  carousel with selected categories/products
+	2.Left Fixed Panel Category
+	  1.Paint and coating
+	  2.Thinner
+          3.Pigment & Pigment Paste
+	  4.Lubrication oil addtive
+	  5.Aerosol Spray Paint
+	  6.Floor Coating
+
+	3.product desci with types and usages,packaging on right side from sikka india website
+	4.Left filter as per akzonable
+	5.search on top
+	6.Tds(technical datasheet) / msds(material safety datasheet) down with info form
+		info form 
+		(name,email,cont,address)
+	7.Inqirey popup with all product on right side
+
+4.Calculator
+	1. Material Calculator
+	2. Area Calculator
+
+5.Contact us
+	1. Left Side Detail	
+	2. Right Inqiry Form as per asian paint
+	3. map on below full width ladscap
+	
+
+
+
+
+
+
